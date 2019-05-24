@@ -1,2 +1,1 @@
-# HelloWorld
-My First Project HelloWorld
+第一个Java程序 HelloWorld
